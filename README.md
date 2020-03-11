@@ -17,14 +17,14 @@ Una herramienta que permita calcular el porcentaje y cantidad correspondiente de
 ## Tabla de contenidos (ToC)
 
 
-[Requerimientos](https://github.com/LuzKerenO/MedicionProductividad/wiki/Documentaci%C3%B3n#requerimientos)
+[Requerimientos](https://github.com/LuzKerenO/MedicionProductividad1/wiki/Documentaci%C3%B3n#requerimientos)
 
-[Instalación](https://github.com/LuzKerenO/MedicionProductividad/wiki/Documentaci%C3%B3n#instalaci%C3%B3n)
+[Instalación](https://github.com/LuzKerenO/MedicionProductividad1/wiki/Documentaci%C3%B3n#instalaci%C3%B3n)
 
-[Configuración](https://github.com/LuzKerenO/MedicionProductividad/wiki/Documentaci%C3%B3n#configuraci%C3%B3n)
+[Configuración](https://github.com/LuzKerenO/MedicionProductividad1/wiki/Documentaci%C3%B3n#configuraci%C3%B3n)
 
-[Uso](https://github.com/LuzKerenO/MedicionProductividad/wiki/Documentaci%C3%B3n#uso)
+[Uso](https://github.com/LuzKerenO/MedicionProductividad1/wiki/Documentaci%C3%B3n#uso)
 
-[Contribución](https://github.com/LuzKerenO/MedicionProductividad/wiki/Documentaci%C3%B3n#contribuci%C3%B3n)
+[Contribución](https://github.com/LuzKerenO/MedicionProductividad1/wiki/Documentaci%C3%B3n#contribuci%C3%B3n)
 
-[Roadmap](https://github.com/LuzKerenO/MedicionProductividad/wiki/Documentaci%C3%B3n#roadmap)
+[Roadmap](https://github.com/LuzKerenO/MedicionProductividad1/wiki/Documentaci%C3%B3n#roadmap)
